@@ -83,4 +83,4 @@ The **raters_agreement.ipynb** file contains the full code for running the eval
 For more information, don't hesitate to contact nhan.phan@aalto.fi
 
 ## Citation
-DOI and citation are availalbe in [Zenodo](https://doi.org/10.5281/zenodo.11385109)
+DOI and citation are available in [Zenodo](https://doi.org/10.5281/zenodo.11385109)
