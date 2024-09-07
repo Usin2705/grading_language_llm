@@ -1,5 +1,7 @@
 ## This is the public record for the paper: Automated content assessment and feedback for Finnish L2 learners in a picture description speaking task. Submitted to INTERSPEECH 2024 conference.
 
+A permanent record is available in [Zenodo](https://doi.org/10.5281/zenodo.11385109)
+
 This record is published for the reproducibility of the experiments described in the paper.
 
 The data relating to DigiTala is available in [Kielipankki](https://www.kielipankki.fi/corpora/digitala/), with a [persistent identifier](http://urn.fi/urn:nbn:fi:lb-2024013001). Unfortunately, we cannot share personal data, so you will need to request data directly from Kielipankki. Our file contains the ID which will match the ID in the data. The task for this experiment is task 18.
@@ -83,4 +85,15 @@ The **raters_agreement.ipynb** file contains the full code for running the eval
 For more information, don't hesitate to contact nhan.phan@aalto.fi
 
 ## Citation
-DOI and citation are available in [Zenodo](https://doi.org/10.5281/zenodo.11385109)
+
+Phan, N., von Zansen, A., Kautonen, M., Voskoboinik, E., Grosz, T., Hilden, R., Kurimo, M. (2024) Automated content assessment and feedback for Finnish L2 learners in a picture description speaking task. Proc. Interspeech 2024, 317-321, doi: 10.21437/Interspeech.2024-1166
+
+```tex
+@inproceedings{phan24_interspeech,
+  title     = {Automated content assessment and feedback for Finnish L2 learners in a picture description speaking task},
+  author    = {Nhan Phan and Anna {von Zansen} and Maria Kautonen and Ekaterina Voskoboinik and Tamas Grosz and Raili Hilden and Mikko Kurimo},
+  year      = {2024},
+  booktitle = {Interspeech 2024},
+  pages     = {317--321},
+  doi       = {10.21437/Interspeech.2024-1166},
+}
